@@ -11,7 +11,7 @@ import numpy as np
 from datetime import datetime
 from functools import wraps
 
-from tensorflow.keras.layers import (
+from keras.layers import (
     Input,
     Concatenate,
     Dense,
